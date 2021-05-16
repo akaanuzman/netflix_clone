@@ -1,16 +1,13 @@
-# netflix_clone
+# Netflix Clone App UI with Fluuter
 
-A new Flutter project.
+## Home Page 
+<a href="https://media.giphy.com/media/kWARzG8SM2HG9UykYh/giphy.gif"><img src="https://media.giphy.com/media/kWARzG8SM2HG9UykYh/giphy.gif" title="Home Page Screen"/></a>
 
-## Getting Started
+## Coming Soon Page
+<a href="https://media.giphy.com/media/a6KH5wwBlzxlhlWjJU/giphy.gif"><img src="https://media.giphy.com/media/a6KH5wwBlzxlhlWjJU/giphy.gif" title="Coming Soon Page Screen"/></a>
 
-This project is a starting point for a Flutter application.
+## Search Page
+<a href="https://media.giphy.com/media/cVaiMnzt4fodl9XhVs/giphy.gif"><img src="https://media.giphy.com/media/cVaiMnzt4fodl9XhVs/giphy.gif" title="Search Page Screen"/></a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Downloads Page
+<a href="https://i.imgur.com/FTL7k3f.jpg"><img src="https://i.imgur.com/FTL7k3f.jpg" title="Downloads Page Screen"/></a>
