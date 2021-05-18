@@ -1,4 +1,4 @@
-# Netflix Clone App UI with Fluuter
+# Netflix Clone App UI with Flutter
 
 ## Home Page 
 <a href="https://media.giphy.com/media/kWARzG8SM2HG9UykYh/giphy.gif"><img src="https://media.giphy.com/media/kWARzG8SM2HG9UykYh/giphy.gif" title="Home Page Screen"/></a>
